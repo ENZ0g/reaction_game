@@ -1,2 +1,2 @@
 # reaction_game
-check your reaction
+check your reaction https://enz0g.github.io/reaction_game/
